@@ -1,0 +1,15 @@
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\bin\Debug\net6.0\DirectoryFiles.exe
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\bin\Debug\net6.0\DirectoryFiles.deps.json
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\bin\Debug\net6.0\DirectoryFiles.runtimeconfig.json
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\bin\Debug\net6.0\DirectoryFiles.dll
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\bin\Debug\net6.0\DirectoryFiles.pdb
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\DirectoryFiles.csproj.AssemblyReference.cache
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\DirectoryFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\DirectoryFiles.AssemblyInfoInputs.cache
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\DirectoryFiles.AssemblyInfo.cs
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\DirectoryFiles.csproj.CoreCompileInputs.cache
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\DirectoryFiles.dll
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\refint\DirectoryFiles.dll
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\DirectoryFiles.pdb
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\DirectoryFiles.genruntimeconfig.cache
+C:\Users\andru\RiderProjects\DirectoryFiles\DirectoryFiles\obj\Debug\net6.0\ref\DirectoryFiles.dll
